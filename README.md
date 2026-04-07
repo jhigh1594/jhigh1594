@@ -1,59 +1,30 @@
 # Hi, I'm Jon 👋
 
-I build product systems that help PMs ship faster and think clearer.
+Senior PM by day. Builder and solopreneur by night.
 
-Most PMs manage chaos with sticky notes and scattered docs. I build structured workspaces that turn product management into a system you can actually trust.
+At ServiceNow I'm building the AI-powered customer success platform. Outside of work, I ship products with AI that solve real problems. Sometimes I just build what interests me.
 
-**What I work on:**
+I run [pm-os-template](https://github.com/jhigh1594/pm-os-template), an open-source PM workspace with Claude Code setups, agent workflows, and automation patterns for PMs who want AI as leverage.
 
-- **AI-native PM workflows** — Claude Code, Cursor, MCP servers that multiply your leverage
-- **Product analytics tooling** — CLIs and scripts that pull real data, not dashboards you never check
-- **Open-source PM templates** — Ready-to-fork systems for OKRs, roadmaps, and discovery
-- **Enterprise B2B product strategy** — 7+ years shipping at scale across Planview and ServiceNow
+**What I work on**
 
-**About Me:**
+- AI CS platform: surfacing customer risk, reducing churn, closing the loop between CS and product
+- Agent workflows: Claude Code, MCP servers, autonomous task automation
+- PM-OS: complete operating system for PMs who want more leverage and impact with AI
+- Analytics CLIs: query your product data from the terminal, not the dashboard
+- Solopreneur builds: AI products that solve a real problem or scratch an itch
 
-- **Senior PM at ServiceNow** — Building AI-powered Customer Success Platform tooling
-- **Building [PM-OS](https://github.com/jhigh1594/pm-os-template)** — An AI-powered workspace template that supercharges your PM workflow with Claude Code
-- **Systems thinker** — I believe simplicity beats complexity, execution beats endless planning, and the best product work happens when you ship fast and iterate
+**About me**
 
----
+Senior PM at ServiceNow. Previously led AgilePlace, OKRs, and Roadmaps at Planview. 7+ years shipping enterprise B2B products at scale.
 
-## What I've Built
+PM · Builder · Systems Thinker
 
-### [PM-OS Template](https://github.com/jhigh1594/pm-os-template)
-**AI-Powered Product Management Workspace Template**
+🌱 Building in B2B SaaS or AI? I'd love to chat.
 
-A complete PM workspace system with Claude Code integration, intelligent automation, and structured workflows for discovery, planning, and execution. Fork it, customize it, ship faster.
-
-### [Pendo CLI](https://github.com/jhigh1594/pendo-cli)
-**CLI for Pendo API**
-
-Query product analytics from your terminal. Pull visitor data, segment insights, and usage metrics without touching the UI. Built because dashboards don't fit into scripts.
-
-### [Agency Access](https://github.com/jhigh1594/agency-access)
-Tools for managing multi-tenant access and agency workflows. Solves the "which account am I in" problem at scale.
-
-### [EnhanceMyPrompt](https://github.com/jhigh1594/EnhanceMyPrompt)
-Prompt engineering experiments and optimization patterns. Making AI outputs more useful, one iteration at a time.
-
----
-
-## Currently Exploring
-
-- **AI agents for PM work** — What can autonomous agents actually ship?
-- **Product sense vs. data** — When to trust your gut vs. the metrics
-- **OKR systems that work** — Not just goal-setting, but execution tracking
-
----
-
-## Let's Connect
-
-- **LinkedIn:** [linkedin.com/in/jonhigh](https://linkedin.com/in/jonhigh)
-- **X:** [@jonhighx](https://twitter.com/jonhighx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonhigh)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/jonhighx)
 
 ---
 
 > "You have power over your mind — not outside events. Realize this, and you will find strength." — Marcus Aurelius
-
-**Building something in AI-native PM tools or B2B SaaS? I'd love to chat.**
