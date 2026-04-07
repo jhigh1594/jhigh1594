@@ -16,11 +16,12 @@ I run [pm-os-template](https://github.com/jhigh1594/pm-os-template), an open-sou
 
 ## About me
 
-Senior PM at ServiceNow. Previously led AgilePlace, OKRs, and Roadmaps at Planview. 7+ years shipping enterprise B2B products at scale.
-
 PM · Builder · Systems Thinker
 
-🌱 Building in B2B SaaS or AI? I'd love to chat.
+- **Senior AI Product Manager** at ServiceNow. Previously led AgilePlace, OKRs, and Roadmaps at Planview. 7+ years shipping enterprise B2B products at scale.
+- Currently building [AuthHub.co](https://authhub.co) and writing [Simply Stoicism](https://simplystoicism.com)
+
+🌱 Building with AI or want to talk about the future of Product Management? I'd love to chat and learn from you. Please reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonhigh)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/jonhighx)
