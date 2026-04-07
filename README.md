@@ -14,7 +14,7 @@ I run [pm-os-template](https://github.com/jhigh1594/pm-os-template), an open-sou
 - Analytics CLIs: query your product data from the terminal, not the dashboard
 - Solopreneur builds: AI products that solve a real problem or scratch an itch
 
-**About me**
+## About me
 
 Senior PM at ServiceNow. Previously led AgilePlace, OKRs, and Roadmaps at Planview. 7+ years shipping enterprise B2B products at scale.
 
